@@ -11571,6 +11571,14 @@ video {
   height: 100vh;
 }
 
+.h-30rem {
+  height: 30rem;
+}
+
+.h-35rem {
+  height: 35rem;
+}
+
 .text-xs {
   font-size: 0.75rem;
   line-height: 1rem;
@@ -27272,6 +27280,14 @@ video {
   width: max-content;
 }
 
+.w-30rem {
+  width: 30rem;
+}
+
+.w-35rem {
+  width: 35rem;
+}
+
 .z-0 {
   z-index: 0;
 }
@@ -42371,6 +42387,14 @@ video {
 
   .sm\:h-screen {
     height: 100vh;
+  }
+
+  .sm\:h-30rem {
+    height: 30rem;
+  }
+
+  .sm\:h-35rem {
+    height: 35rem;
   }
 
   .sm\:text-xs {
@@ -58061,6 +58085,14 @@ video {
     width: max-content;
   }
 
+  .sm\:w-30rem {
+    width: 30rem;
+  }
+
+  .sm\:w-35rem {
+    width: 35rem;
+  }
+
   .sm\:z-0 {
     z-index: 0;
   }
@@ -73095,6 +73127,14 @@ video {
 
   .md\:h-screen {
     height: 100vh;
+  }
+
+  .md\:h-30rem {
+    height: 30rem;
+  }
+
+  .md\:h-35rem {
+    height: 35rem;
   }
 
   .md\:text-xs {
@@ -88785,6 +88825,14 @@ video {
     width: max-content;
   }
 
+  .md\:w-30rem {
+    width: 30rem;
+  }
+
+  .md\:w-35rem {
+    width: 35rem;
+  }
+
   .md\:z-0 {
     z-index: 0;
   }
@@ -103819,6 +103867,14 @@ video {
 
   .lg\:h-screen {
     height: 100vh;
+  }
+
+  .lg\:h-30rem {
+    height: 30rem;
+  }
+
+  .lg\:h-35rem {
+    height: 35rem;
   }
 
   .lg\:text-xs {
@@ -119509,6 +119565,14 @@ video {
     width: max-content;
   }
 
+  .lg\:w-30rem {
+    width: 30rem;
+  }
+
+  .lg\:w-35rem {
+    width: 35rem;
+  }
+
   .lg\:z-0 {
     z-index: 0;
   }
@@ -134543,6 +134607,14 @@ video {
 
   .xl\:h-screen {
     height: 100vh;
+  }
+
+  .xl\:h-30rem {
+    height: 30rem;
+  }
+
+  .xl\:h-35rem {
+    height: 35rem;
   }
 
   .xl\:text-xs {
@@ -150233,6 +150305,14 @@ video {
     width: max-content;
   }
 
+  .xl\:w-30rem {
+    width: 30rem;
+  }
+
+  .xl\:w-35rem {
+    width: 35rem;
+  }
+
   .xl\:z-0 {
     z-index: 0;
   }
@@ -165267,6 +165347,14 @@ video {
 
   .\32xl\:h-screen {
     height: 100vh;
+  }
+
+  .\32xl\:h-30rem {
+    height: 30rem;
+  }
+
+  .\32xl\:h-35rem {
+    height: 35rem;
   }
 
   .\32xl\:text-xs {
@@ -180955,6 +181043,14 @@ video {
     width: -webkit-max-content;
     width: -moz-max-content;
     width: max-content;
+  }
+
+  .\32xl\:w-30rem {
+    width: 30rem;
+  }
+
+  .\32xl\:w-35rem {
+    width: 35rem;
   }
 
   .\32xl\:z-0 {

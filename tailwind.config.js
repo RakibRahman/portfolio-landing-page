@@ -9,6 +9,14 @@ module.exports = {
       backgroundImage: (theme) => ({
         "hero-circle": "url('/img/circle.png')",
       }),
+      width: {
+        "30rem": "30rem",
+        "35rem": "35rem",
+      },
+      height: {
+        "30rem": "30rem",
+        "35rem": "35rem",
+      },
     },
   },
   variants: {
