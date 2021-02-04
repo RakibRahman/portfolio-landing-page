@@ -1,3 +1,3 @@
 # screenshot:
 
-![ss](img/ss.png)
+![ss](public/img/ss.png)
