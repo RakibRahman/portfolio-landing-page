@@ -17,6 +17,9 @@ module.exports = {
         "30rem": "30rem",
         "35rem": "35rem",
       },
+      screens: {
+        sm: "320px",
+      },
     },
   },
   variants: {
